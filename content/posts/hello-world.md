@@ -1,7 +1,6 @@
 +++
 title = 'Hello, World!'
 date = 2024-04-25T23:39:03-07:00
-draft = true
 tags = ["Blogging"]
 +++
 

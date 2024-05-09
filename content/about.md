@@ -1,7 +1,6 @@
 +++
 title = 'About Me'
 date = 2024-04-28T18:32:47-07:00
-draft = true
 +++
 
 Thanks for stopping by! I'm a recently graduated Software Developer in the San
