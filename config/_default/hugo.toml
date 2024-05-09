@@ -218,4 +218,4 @@ url = "posts/"
 [[languages.en.menu.main]]
 name = "Resume"
 weight = 3
-url = "resume.pdf/"
+url = "resume.pdf"
